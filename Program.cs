@@ -1,4 +1,4 @@
-namespace WinFormsApp1
+namespace cs_form_mtn_003_vs2022
 {
     internal static class Program
     {
